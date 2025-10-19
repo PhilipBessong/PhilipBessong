@@ -1,4 +1,4 @@
-## Hi I'm 👋<h1>Philip Bessong</h1>
+## Hi, I'm Philip Bessong 👋
 
 
 <!--
