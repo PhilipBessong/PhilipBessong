@@ -39,7 +39,7 @@ collaborate with experienced teams, and build meaningful, high-quality products.
 
 ### 📫 Let’s Connect
 <p align="left">
-  <a href="mailto:philipbessong@gmail.com">
+  <a href="mailto:pba.bessong@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
