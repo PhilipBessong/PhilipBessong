@@ -2,7 +2,7 @@
 
 I'm focused on building **high-performance cross-platform, mobile and web applications**.
 
-💡 My main stack lives in the **Ionic Angular + Capacitor + Firebase** ecosystem, and I like transforming innovative ideas into **clean, user-friendly apps**.  
+💡My main stack lives in the **Ionic Angular + Capacitor + Firebase** ecosystem, and I like transforming innovative ideas into **clean, user-friendly apps**.  
 Recently, I developed an Android fitness app featuring **Firestore**, **Google Authentication**, and **real-time push notifications (FCM)**.
 
 I care deeply about writing **clean, efficient, and scalable code** and I’m always learning and trying to refine that part of my my craft.  
