@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Philip Bessong
+## 👋 Hey, I'm Philip Bessong
 
 I'm focused on building **high-performance cross-platform, mobile and web applications**.
 
